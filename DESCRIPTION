@@ -1,0 +1,19 @@
+Package: AquaSpan
+Title: Generate plots of fish age structure distributions and cumulative age frequencies
+Version: 0.0.0.9000
+Authors@R: 
+    person("Michael", "O'Neill", , "michael.oneill022@gmail.com", role = c("aut", "cre"),
+           comment = c(ORCID = "0009-0004-7793-7966"))
+Description: A package that allows users to graph cumulative age frequencies data for fish populations. The package also contains data for several tropical and subtropical Western-Atlantic fish species referenced in the literature. See function descriptions for full citations.
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+    license
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.1
+Depends: 
+    R (>= 2.10)
+LazyData: true
+Imports: 
+    dplyr,
+    ggplot2,
+    RColorBrewer
