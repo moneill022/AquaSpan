@@ -19,18 +19,14 @@ Aqua_CAF() - This function can be used to plot cumulative age frequencies for mu
 
 Aqua_CAF(dataframe, age, CAF, species)
 
-The input dataframe is comprised of a row for each age class of the target species (in years) columns: age, CAF, species:
+The input dataframe is comprised of a row for each age class of the target species (in years) columns: age, CAF, species.
 
-age	CAF	species
-1	08	species1
-2	20	species1
-3	35	species1
-4	75	species1
-5	78	species1
-6	95	species1
-7	97	species1
-8	100	species1
+age: year classes of target species (0,1,2,3,4,5,6) etc.)
 
+CAF: cumulative age frequency values as a percentage based on the number 
+of fish in each age class added to the percentages from previous age classes i.e.(15, 20, 35, 77, 95, 98, 100)
+
+species: name or identifier of target species for each age class (species01, species01, species01 etc.)
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><span property="dct:title">AquaSpan</span> by <span property="cc:attributionName">Michael O'Neill</span> is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a></p>
 
