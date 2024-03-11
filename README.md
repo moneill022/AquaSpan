@@ -2,7 +2,35 @@
 
 #AquaSpan
 
-AquaSpan allows users to graph cumulative age frequencies for fish species based on input data. Reference data for wild populations described in the literature are also contained within the package and full citations can be found below. Visualizations of both age class distributions and cumulative age frequencies can be generated from the reference data.
+AquaSpan allows users to graph cumulative age frequencies for multiple fish species based on input data. Reference data for wild populations described in the literature are also contained within the package and full citations can be found at the end of this document. Visualizations of both age class distributions and cumulative age frequencies can be generated for the reference data.
+
+Age/Longevity distributions and cumulative age frequencies can be used to better understand the age structure and population dynamics of target taxa. In the context of multi-taxa aquatic exhibits, the examination of population age structure based on longevity data can assist in both exhibit and animal management.
+
+Functions include:
+Wild_Dist() - This function can be used to plot the age distributions of species contained in the WildDATA dataframe using the format:
+
+Wild_Dist(WildDATA, species == "EXAMPLE", age, count)
+
+Wild_CAF() - This function can be used to plot the cumulative age frequencies of species contained in the WildDATA dataframe using the format: 
+
+Wild_CAF(WildDATA, species == "EXAMPLE", age, CAF)
+
+Aqua_CAF() - This function can be used to plot cumulative age frequencies for multiple species contained in a user-supplied dataframe using the following format:
+
+Aqua_CAF(dataframe, age, CAF, species)
+
+The input dataframe is comprised of a row for each age class of the target species (in years) columns: age, CAF, species:
+
+age	CAF	species
+1	08	species1
+2	20	species1
+3	35	species1
+4	75	species1
+5	78	species1
+6	95	species1
+7	97	species1
+8	100	species1
+
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><span property="dct:title">AquaSpan</span> by <span property="cc:attributionName">Michael O'Neill</span> is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a></p>
 
