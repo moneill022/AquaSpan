@@ -4,6 +4,9 @@
 
 AquaSpan allows users to graph cumulative age frequencies for fish species based on input data. Reference data for wild populations described in the literature are also contained within the package and full citations can be found below. Visualizations of both age class distributions and cumulative age frequencies can be generated from the reference data.
 
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><span property="dct:title">AquaSpan</span> by <span property="cc:attributionName">Michael O'Neill</span> is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a></p>
+
+
 Blackfin Snapper, Lutjanus buccanella
 Burton, M.L., Potts, J.C. & Carr, D.R. (2016). Age, growth, and natural mortality of blackfin snapper, Lutjanus buccanella, from the southeastern United States and U.S. Caribbean. Gulf and Caribbean Research, 27(1), 66-73. doi:10.18785/gcr.2701.10
 
