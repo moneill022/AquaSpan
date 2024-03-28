@@ -3,13 +3,13 @@ age,CAF,count,species,origin
 2,18.82,32,tomtate,wild
 3,34.15,88,tomtate,wild
 4,51.05,97,tomtate,wild
-5,77.70,153,tomtate,wild
+5,77.7,153,tomtate,wild
 6,91.29,78,tomtate,wild
 7,97.74,37,tomtate,wild
 8,98.78,6,tomtate,wild
 9,99.48,4,tomtate,wild
-10,100.00,3,tomtate,wild
-1,20.80,151,blue runner,wild
+10,100,3,tomtate,wild
+1,20.8,151,blue runner,wild
 2,70.25,359,blue runner,wild
 3,82.64,90,blue runner,wild
 4,88.98,46,blue runner,wild
@@ -19,11 +19,11 @@ age,CAF,count,species,origin
 8,98.07,19,blue runner,wild
 9,99.04,7,blue runner,wild
 10,99.59,4,blue runner,wild
-11,100.00,3,blue runner,wild
+11,100,3,blue runner,wild
 1,0.53,1,french angel,wild
 2,3.74,6,french angel,wild
 3,5.35,3,french angel,wild
-4,12.30,13,french angel,wild
+4,12.3,13,french angel,wild
 5,18.72,12,french angel,wild
 6,28.88,19,french angel,wild
 7,32.09,6,french angel,wild
@@ -33,7 +33,7 @@ age,CAF,count,species,origin
 11,59.36,10,french angel,wild
 12,65.78,12,french angel,wild
 13,70.05,8,french angel,wild
-14,73.80,7,french angel,wild
+14,73.8,7,french angel,wild
 15,78.07,8,french angel,wild
 16,80.75,5,french angel,wild
 17,85.56,9,french angel,wild
@@ -46,8 +46,8 @@ age,CAF,count,species,origin
 24,96.26,2,french angel,wild
 25,97.86,3,french angel,wild
 26,99.47,3,french angel,wild
-27,100.00,1,french angel,wild
-1,0.00,0,white grunt,wild
+27,100,1,french angel,wild
+1,0,0,white grunt,wild
 2,0.39,2,white grunt,wild
 3,1.75,7,white grunt,wild
 4,7.21,28,white grunt,wild
@@ -57,11 +57,11 @@ age,CAF,count,species,origin
 8,44.83,45,white grunt,wild
 9,54.39,49,white grunt,wild
 10,63.94,49,white grunt,wild
-11,72.90,46,white grunt,wild
+11,72.9,46,white grunt,wild
 12,78.56,29,white grunt,wild
 13,84.41,30,white grunt,wild
 14,86.74,12,white grunt,wild
-15,88.30,8,white grunt,wild
+15,88.3,8,white grunt,wild
 16,91.81,18,white grunt,wild
 17,94.15,12,white grunt,wild
 18,96.49,12,white grunt,wild
@@ -74,7 +74,7 @@ age,CAF,count,species,origin
 25,99.81,3,white grunt,wild
 26,99.81,0,white grunt,wild
 27,99.81,0,white grunt,wild
-28,100.00,1,white grunt,wild
+28,100,1,white grunt,wild
 1,0.16,1,blackfin snapper,wild
 2,11.56,71,blackfin snapper,wild
 3,35.96,152,blackfin snapper,wild
@@ -90,11 +90,11 @@ age,CAF,count,species,origin
 13,97.91,4,blackfin snapper,wild
 14,98.23,2,blackfin snapper,wild
 15,98.72,3,blackfin snapper,wild
-16,99.20,3,blackfin snapper,wild
+16,99.2,3,blackfin snapper,wild
 17,99.52,2,blackfin snapper,wild
 19,99.68,1,blackfin snapper,wild
 20,99.84,1,blackfin snapper,wild
-27,100.00,1,blackfin snapper,wild
+27,100,1,blackfin snapper,wild
 2,0.58,2,bluestriped grunt,wild
 3,7.31,23,bluestriped grunt,wild
 4,20.76,46,bluestriped grunt,wild
@@ -116,11 +116,11 @@ age,CAF,count,species,origin
 20,98.54,3,bluestriped grunt,wild
 21,99.12,2,bluestriped grunt,wild
 22,99.71,2,bluestriped grunt,wild
-23,100.00,1,bluestriped grunt,wild
-0,0.40,1,permit,wild
+23,100,1,bluestriped grunt,wild
+0,0.4,1,permit,wild
 1,10.71,26,permit,wild
 2,14.68,10,permit,wild
-3,25.00,26,permit,wild
+3,25,26,permit,wild
 4,36.11,28,permit,wild
 5,47.22,28,permit,wild
 6,58.33,28,permit,wild
@@ -129,14 +129,14 @@ age,CAF,count,species,origin
 9,77.78,20,permit,wild
 10,80.56,7,permit,wild
 11,85.32,12,permit,wild
-12,86.90,4,permit,wild
+12,86.9,4,permit,wild
 13,90.87,10,permit,wild
 14,96.03,13,permit,wild
 15,98.02,5,permit,wild
 18,98.81,2,permit,wild
 20,99.21,1,permit,wild
-21,99.60,1,permit,wild
-23,100.00,1,permit,wild
+21,99.6,1,permit,wild
+23,100,1,permit,wild
 2,0.21,1,queen trigger,wild
 3,5.67,26,queen trigger,wild
 4,14.29,41,queen trigger,wild
@@ -144,13 +144,13 @@ age,CAF,count,species,origin
 6,49.79,107,queen trigger,wild
 7,71.01,101,queen trigger,wild
 8,86.55,74,queen trigger,wild
-9,93.70,34,queen trigger,wild
-10,97.90,20,queen trigger,wild
+9,93.7,34,queen trigger,wild
+10,97.9,20,queen trigger,wild
 11,99.16,6,queen trigger,wild
 12,99.58,2,queen trigger,wild
-14,100.00,2,queen trigger,wild
+14,100,2,queen trigger,wild
 1,0.52,4,snowy grouper,wild
-2,4.90,34,snowy grouper,wild
+2,4.9,34,snowy grouper,wild
 3,14.43,74,snowy grouper,wild
 4,24.74,80,snowy grouper,wild
 5,37.11,96,snowy grouper,wild
@@ -166,34 +166,20 @@ age,CAF,count,species,origin
 15,96.78,8,snowy grouper,wild
 16,97.55,6,snowy grouper,wild
 17,98.07,4,snowy grouper,wild
-18,98.20,1,snowy grouper,wild
+18,98.2,1,snowy grouper,wild
 19,98.32,1,snowy grouper,wild
 20,98.45,1,snowy grouper,wild
 21,98.71,2,snowy grouper,wild
 22,98.84,1,snowy grouper,wild
 26,98.97,1,snowy grouper,wild
-27,99.10,1,snowy grouper,wild
+27,99.1,1,snowy grouper,wild
 28,99.23,1,snowy grouper,wild
 29,99.36,1,snowy grouper,wild
 31,99.48,1,snowy grouper,wild
 33,99.61,1,snowy grouper,wild
 34,99.74,1,snowy grouper,wild
 40,99.87,1,snowy grouper,wild
-44,100.00,1,snowy grouper,wild
-2,1.39,10,lane snapper,wild
-3,9.71,60,lane snapper,wild
-4,33.29,170,lane snapper,wild
-5,58.25,180,lane snapper,wild
-6,74.90,120,lane snapper,wild
-7,83.22,60,lane snapper,wild
-8,88.77,40,lane snapper,wild
-9,91.54,20,lane snapper,wild
-10,93.20,12,lane snapper,wild
-11,94.59,10,lane snapper,wild
-12,97.64,22,lane snapper,wild
-13,99.03,10,lane snapper,wild
-14,99.72,5,lane snapper,wild
-17,100.00,2,lane snapper,wild
+44,100,1,snowy grouper,wild
 1,2.83,18,jolthead porgy,wild
 2,39.84,235,jolthead porgy,wild
 3,64.88,159,jolthead porgy,wild
@@ -204,4 +190,78 @@ age,CAF,count,species,origin
 8,99.21,8,jolthead porgy,wild
 9,99.53,2,jolthead porgy,wild
 12,99.84,2,jolthead porgy,wild
-13,100.00,1,jolthead porgy,wild
+13,100,1,jolthead porgy,wild
+1,0.74,1,schoolmaster,wild
+2,4.41,5,schoolmaster,wild
+3,38.97,47,schoolmaster,wild
+4,68.38,40,schoolmaster,wild
+5,80.15,16,schoolmaster,wild
+6,86.76,9,schoolmaster,wild
+7,89.71,4,schoolmaster,wild
+8,92.65,4,schoolmaster,wild
+9,94.12,2,schoolmaster,wild
+10,95.59,2,schoolmaster,wild
+11,96.32,1,schoolmaster,wild
+12,97.06,1,schoolmaster,wild
+13,97.06,0,schoolmaster,wild
+14,97.79,1,schoolmaster,wild
+15,97.79,0,schoolmaster,wild
+16,97.79,0,schoolmaster,wild
+17,97.79,0,schoolmaster,wild
+18,97.79,0,schoolmaster,wild
+19,98.53,1,schoolmaster,wild
+20,98.53,0,schoolmaster,wild
+21,98.53,0,schoolmaster,wild
+22,99.26,1,schoolmaster,wild
+23,99.26,0,schoolmaster,wild
+24,99.26,0,schoolmaster,wild
+25,99.26,0,schoolmaster,wild
+26,99.26,0,schoolmaster,wild
+27,99.26,0,schoolmaster,wild
+28,99.26,0,schoolmaster,wild
+29,99.26,0,schoolmaster,wild
+30,99.26,0,schoolmaster,wild
+31,99.26,0,schoolmaster,wild
+32,99.26,0,schoolmaster,wild
+33,99.26,0,schoolmaster,wild
+34,99.26,0,schoolmaster,wild
+35,99.26,0,schoolmaster,wild
+36,99.26,0,schoolmaster,wild
+37,99.26,0,schoolmaster,wild
+38,99.26,0,schoolmaster,wild
+39,99.26,0,schoolmaster,wild
+40,99.26,0,schoolmaster,wild
+41,99.26,0,schoolmaster,wild
+42,100,1,schoolmaster,wild
+1,2.83,18,jolthead porgy,wild
+2,39.84,235,jolthead porgy,wild
+3,64.88,159,jolthead porgy,wild
+4,83.78,120,jolthead porgy,wild
+5,91.02,46,jolthead porgy,wild
+6,95.12,26,jolthead porgy,wild
+7,97.95,18,jolthead porgy,wild
+8,99.21,8,jolthead porgy,wild
+9,99.53,2,jolthead porgy,wild
+10,99.53,0,jolthead porgy,wild
+11,99.53,0,jolthead porgy,wild
+12,99.84,2,jolthead porgy,wild
+13,100,1,jolthead porgy,wild
+1,3.23,10,hogfish,wild
+2,18.71,48,hogfish,wild
+3,44.19,79,hogfish,wild
+4,68.71,76,hogfish,wild
+5,79.68,34,hogfish,wild
+6,84.84,16,hogfish,wild
+7,92.9,25,hogfish,wild
+8,96.13,10,hogfish,wild
+9,98.39,7,hogfish,wild
+10,99.35,3,hogfish,wild
+11,100,2,hogfish,wild
+1,56.81,121,atlantic spadefish,wild
+2,73.71,36,atlantic spadefish,wild
+3,83.57,21,atlantic spadefish,wild
+4,88.26,10,atlantic spadefish,wild
+5,96.24,17,atlantic spadefish,wild
+6,99.53,7,atlantic spadefish,wild
+7,99.53,0,atlantic spadefish,wild
+8,100,1,atlantic spadefish,wild

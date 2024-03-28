@@ -8,7 +8,7 @@
 #' @return The citation for the publication used to produce age structure plots
 #' @export
 #'
-#' @examples wild_citation()
+#' @examples wild_citations()
 wild_citations<- function() {
   print(Wild_Citations)
 
