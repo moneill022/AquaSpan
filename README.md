@@ -4,7 +4,7 @@
 
 AquaSpan allows users to graph cumulative age frequencies for multiple fish species based on input data. Reference data for wild populations described in the literature are also contained within the package and full citations can be found at the end of this document. Visualizations of both age class distributions and cumulative age frequencies can be generated for the reference data.
 
-Age/Longevity distributions and cumulative age frequencies can be used to better understand the age structure and population dynamics of target taxa. In the context of multi-taxa aquatic exhibits, the examination of population age structure based on exhibit residence time can assist in both exhibit and animal management. 
+Age distributions and cumulative age frequencies can be used to better understand the age structure and population dynamics of target taxa. In the context of multi-taxa aquatic exhibits, the examination of population age structure based on exhibit residence time can assist in both exhibit and animal management.
 
 Functions include:
 Wild_Dist() - This function can be used to plot the age distributions of species contained in the WildDATA dataframe using the format:
@@ -23,8 +23,7 @@ The input dataframe is comprised of a row for each age class of the target speci
 
 age: year classes of target species (0,1,2,3,4,5,6) etc.)
 
-CAF: cumulative age frequency values as a percentage based on the number 
-of fish in each age class added to the percentages from previous age classes i.e.(15, 20, 35, 77, 95, 98, 100)
+CAF: cumulative age frequency values as a percentage based on the number of fish in each age class added to the percentages from previous age classes i.e.(15, 20, 35, 77, 95, 98, 100)
 
 species: name or identifier of target species for each age class (species01, species01, species01 etc.)
 

@@ -8,9 +8,9 @@
 #'
 #' @return A line plot of the cumulative age frequencies for particular species from the following references:
 #'
-#'Atlantic Spadefish, Chaetodipterus faber
+#' Atlantic Spadefish, Chaetodipterus faber
 #'
-#'Hayse, J. (1990). Feeding habits, age, growth, and reproduction of Atlantic Spadefish, Cheatodipterus faber (Pisces: Ephippidae) in South Carolina. Fish. Bull. 88: 67-83.
+#' Hayse, J. (1990). Feeding habits, age, growth, and reproduction of Atlantic Spadefish, Cheatodipterus faber (Pisces: Ephippidae) in South Carolina. Fish. Bull. 88: 67-83.
 #'
 #' Blackfin Snapper, Lutjanus buccanella
 #'
