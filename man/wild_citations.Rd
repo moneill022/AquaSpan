@@ -20,5 +20,5 @@ The citation for the publication used to produce age structure plots
 Publications used for wild population age structures
 }
 \examples{
-wild_citation()
+wild_citations()
 }
